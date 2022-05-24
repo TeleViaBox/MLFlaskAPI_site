@@ -37,4 +37,6 @@ def postInput():
 
 ## 2. Deploy Flask API on Heroku
 Procfile: a setting file for HEROKU
-
+```
+https://alexflask-api-example-ml.herokuapp.com/
+```
