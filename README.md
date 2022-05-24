@@ -15,7 +15,7 @@
 - ./test
 - ./predict
 
-```
+```python
 @app.route('/test', methods=['GET'])
 def getResult():
     input = np.array([[num1, num2, num3, num4]])
